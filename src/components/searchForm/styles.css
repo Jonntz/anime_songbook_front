@@ -1,0 +1,33 @@
+.formulario{
+    margin-top: 5vh;
+}
+
+form{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 70vw;
+    padding: 8px;
+    font-size: 18px;
+    border: thin solid #696969;
+    border-radius: 8px;
+    margin-left: 15px;
+}
+
+select{
+    width: 7vw;
+    font-size: 16px;
+    border: thin solid #696969;
+    border-radius: 8px;
+    margin-right: 0;
+    text-align: center;
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    padding: 0;
+}

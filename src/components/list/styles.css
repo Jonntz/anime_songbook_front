@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    gap: 10px;
+    width: 95vw;
+}
+
+.detail{
+    background-color: blueviolet !important;
+    border: none;
+    font-weight: 500;
+}
