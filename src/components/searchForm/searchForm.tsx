@@ -6,7 +6,7 @@ function SearcForm() {
       <div className="App">
         <div className="formulario">
             <form>
-                <select name="select" className="select">
+                <select name="select" className="select ">
                     <option value="artist">Artista</option>
                     <option value="title" selected>Nome</option>
                     <option value="anime">Anime</option>

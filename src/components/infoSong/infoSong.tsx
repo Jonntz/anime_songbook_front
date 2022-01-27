@@ -40,7 +40,10 @@ function InfoSong() {
                 <p> <span>Ano:</span> ano</p>
               </div>
               
-              <button type="button" className="btn btn-primary spotify"> <FaSpotify /> Escute no Spotify</button>
+              <button type="button" className="btn btn-primary spotify"> 
+              <FaSpotify /> 
+                Escute no Spotify
+              </button>
             </div>
           </div>
       </div>
